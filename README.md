@@ -7,7 +7,6 @@
   <a href="https://github.com/mikey-pro">
     <img src="mikey-pro-logo.png" style="width: 275px" alt="Mikey Pro Logo" />
   </a>
-
   <br />
 </div>
 
