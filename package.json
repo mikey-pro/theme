@@ -1,0 +1,26 @@
+{
+  "name": "mikey-pro-theme",
+  "version": "1.0.0",
+  "description": "Mikey Pro Theme",
+  "main": " ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikey-pro/theme.git"
+  },
+  "homepage": "https://github.com/mikey-pro/theme#readme",
+  "author": "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)",
+  "bugs": {
+    "url": "https://github.com/mikey-pro/theme/issues"
+  },
+  "keywords": [
+    "mikey-pro-theme",
+    "mikey-pro",
+    "mikey",
+    "pro",
+    "theme"
+  ],
+  "contributors": [
+    "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)"
+  ]
+}
