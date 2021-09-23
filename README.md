@@ -22,7 +22,8 @@ _A custom color scheme inspired by the world class Monokai Pro theme_
 <table>
   <thead>
     <tr>
-      <th align="left">Compatible with</th>
+      <th align="left">Application</th>
+      <th align="left">Description</th>
     </tr>
   </thead>
   <tbody>
