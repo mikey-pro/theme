@@ -30,10 +30,16 @@ _A custom color scheme inspired by the world class Monokai Pro theme_
       <td valign="top">
         <a href="https://github.com/mikey-pro/theme-iterm">iTerm</a>
       </td>
+      <td valign="top">
+        A custom profile and additional tools to level up your terminal
+      </td>
     </tr>
     <tr>
       <td valign="top">
         <a href="https://github.com/mikey-pro/theme-adobe">Adobe</a>
+      </td>
+      <td valign="top">
+        A swatch library to fulfill your designer needs
       </td>
     </tr>
   </tbody>
