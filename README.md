@@ -17,7 +17,7 @@
 
 ### Look good, feel good
 
-_Custom color scheme inspired by the world class Monokai Pro theme_
+_Custom color scheme inspired by the world class [Monokai Pro](https://monokai.pro) theme_
 
 <table>
   <thead>
