@@ -37,6 +37,14 @@ _Custom color scheme inspired by the world class [Monokai Pro](https://monokai.p
     </tr>
     <tr>
       <td valign="top">
+        <a href="https://github.com/mikey-pro/theme-github">GitHub</a>
+      </td>
+      <td valign="top">
+        A fresh coat of paint and new buttons to press
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
         <a href="https://github.com/mikey-pro/theme-adobe">Adobe</a>
       </td>
       <td valign="top">
