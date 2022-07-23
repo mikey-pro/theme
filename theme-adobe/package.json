@@ -1,0 +1,23 @@
+{
+  "name": "theme-adobe",
+  "version": "1.0.1",
+  "description": "Mikey Pro Theme for Adobe",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikey-pro/theme-adobe.git"
+  },
+  "homepage": "https://github.com/mikey-pro/theme-adobe#readme",
+  "author": "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)",
+  "bugs": {
+    "url": "https://github.com/mikey-pro/theme-adobe/issues"
+  },
+  "keywords": [
+    "mikey-pro",
+    "theme",
+    "adobe"
+  ],
+  "contributors": [
+    "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)"
+  ]
+}

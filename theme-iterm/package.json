@@ -1,0 +1,23 @@
+{
+  "name": "theme-iterm",
+  "version": "1.0.1",
+  "description": "Mikey Pro Theme for iTerm",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikey-pro/theme-iterm.git"
+  },
+  "homepage": "https://github.com/mikey-pro/theme-iterm#readme",
+  "author": "me",
+  "bugs": {
+    "url": "https://github.com/mikey-pro/theme-iterm/issues"
+  },
+  "keywords": [
+    "mikey-pro",
+    "theme",
+    "iterm"
+  ],
+  "contributors": [
+    "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "theme-browser",
+  "version": "0.0.1",
+  "description": "Mikey Pro Theme for Browsers",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://chiefmikey@github.com/mikey-pro/theme-browser.git"
+  },
+  "homepage": "https://github.com/mikey-pro/theme-browser#readme",
+  "author": "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)",
+  "bugs": {
+    "url": "https://github.com/mikey-pro/theme-browser/issues"
+  },
+  "contributors": [
+    "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)"
+  ]
+}

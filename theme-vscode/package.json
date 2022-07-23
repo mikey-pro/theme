@@ -1,0 +1,23 @@
+{
+  "name": "theme-vscode",
+  "version": "1.0.0",
+  "description": "Mikey Pro Theme for VSCode",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikey-pro/theme-vscode.git"
+  },
+  "homepage": "https://github.com/mikey-pro/theme-vscode#readme",
+  "author": "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)",
+  "bugs": {
+    "url": "https://github.com/mikey-pro/theme-vscode/issues"
+  },
+  "keywords": [
+    "mikey-pro",
+    "theme",
+    "vscode"
+  ],
+  "contributors": [
+    "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)"
+  ]
+}
